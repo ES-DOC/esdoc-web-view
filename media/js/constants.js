@@ -74,7 +74,7 @@
 
         // ES-DOC homepage.
         homepage: {
-            dev: "../../esdoc-splash/src/index.html",
+            dev: "../esdoc-web-splash/index.html",
             prod: "http://es-doc.org",
             test: "http://test.es-doc.org"
         },

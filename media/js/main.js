@@ -66,7 +66,7 @@ this.window.$ = this.window.$jq = this.jQuery.noConflict();
 
     // Event handler: open splash page.
     $('.esdoc-logo').click(function () {
-        window.open("http://es-doc.org");
+        window.open(APP.defaults.homepage);
     });
 
     // Event handler: open splash page.
