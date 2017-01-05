@@ -1,0 +1,99 @@
+.esdoc-document > header small {
+    color: white;
+}
+
+.esdoc-document > nav {
+    margin-bottom: 5px;
+}
+
+.esdoc-document > nav a {
+    /*font-weight: bold;*/
+}
+
+.esdoc-document h1,
+.esdoc-document h2,
+.esdoc-document h3,
+.esdoc-document h4,
+.esdoc-document h5,
+.esdoc-document h6 {
+	padding: 4px;
+    margin: 3px 0;
+}
+
+.esdoc-document h1,
+.esdoc-document h3,
+.esdoc-document h4,
+.esdoc-document h5,
+.esdoc-document h6 {
+    text-transform: capitalize;
+}
+
+.esdoc-document table tr {
+    /*background-color: #EEE;*/
+}
+
+.esdoc-document table tr:not(:last-child) {
+    /*border-bottom: 1px dotted lightgray;*/
+}
+.esdoc-document table tbody td {
+    border: 0px;
+}
+.esdoc-document table tr td.esdoc-field-name {
+    text-transform: capitalize;
+}
+
+article.esdoc-document h5 {
+    text-transform: capitalize;
+}
+
+article p {
+    margin-bottom: 0;
+}
+article > section > nav ul {
+    list-style-type: none;
+    width: 100%;
+}
+article > section > nav ul.depth-0 {
+    padding: 3px;
+    border: 0;
+}
+article > section > nav a.selected {
+    font-weight: bold;
+}
+article > section > nav a {
+    width: 100%;
+}
+article > section > nav a:hover {
+    text-decoration: none;
+    font-weight: bold;
+}
+article > section > nav a {
+    color: black;
+}
+article > section > section > header > h3 {
+    border-top: 0;
+}
+article > section > section > header > h3 span {
+    cursor: pointer;
+}
+
+
+.cim-1-software-modelcomponent-components > nav {
+    width: 27%;
+    height: 700px;
+    overflow-x: auto;
+    overflow-y:auto;
+}
+.cim-1-software-modelcomponent-components > section {
+    width: 72%;
+    height: 700px;
+    overflow-x: auto;
+    overflow-y:auto;
+}
+
+article > footer {
+    padding: 5px;
+    margin-top: 5px;
+    display: none;
+}
+
