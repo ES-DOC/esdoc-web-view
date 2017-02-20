@@ -41,7 +41,7 @@
             baseURL: {
                 dev: "http://localhost:5000",
                 prod: "http://api.es-doc.org",
-                test: "http://test.api.es-doc.org"
+                test: "https://test-api.es-doc.org"
             },
 
             // URL to download setup data.
