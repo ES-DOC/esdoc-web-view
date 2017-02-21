@@ -75,8 +75,8 @@
         // ES-DOC homepage.
         homepage: {
             dev: "../esdoc-web-splash/index.html",
-            prod: "http://es-doc.org",
-            test: "http://test.es-doc.org"
+            prod: "https://es-doc.org",
+            test: "https://test.es-doc.org"
         },
 
         // Set of document types that can be downloaded to PDF.
