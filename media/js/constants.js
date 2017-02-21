@@ -40,7 +40,7 @@
             // Base url in various modes.
             baseURL: {
                 dev: "http://localhost:5000",
-                prod: "http://api.es-doc.org",
+                prod: "https://api.es-doc.org",
                 test: "https://test-api.es-doc.org"
             },
 
