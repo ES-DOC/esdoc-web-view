@@ -97,3 +97,7 @@ article > footer {
     display: none;
 }
 
+td.esdoc-field-value > ul {
+    margin-left: -25px;
+    margin-bottom: 0;
+}
