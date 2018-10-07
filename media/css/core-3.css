@@ -2,3 +2,12 @@
     font-weight: bold;
     color: black;
 }
+
+td.topic-property-description-caption, td.topic-property-value-caption {
+    width: 200px;
+}
+
+td.topic-property-name {
+    text-transform: capitalize;	
+}
+

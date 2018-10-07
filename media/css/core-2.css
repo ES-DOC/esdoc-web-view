@@ -1,4 +1,4 @@
-.esdoc-document > header small {
+    .esdoc-document > header small {
     color: white;
 }
 
@@ -39,6 +39,7 @@
     border: 0px;
 }
 .esdoc-document table tr td.esdoc-field-name {
+    width: 200px;    
     text-transform: capitalize;
 }
 
