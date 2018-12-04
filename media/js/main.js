@@ -15,7 +15,7 @@ this.window.$ = this.window.$jq = this.jQuery.noConflict();
         title: "ES-DOC Viewer",
 
         // Version.
-        VERSION: '0.12.0.0',
+        VERSION: '0.13.0.0',
 
         // Copyright statement.
         copyrightYear: new Date().getFullYear(),
@@ -93,7 +93,7 @@ this.window.$ = this.window.$jq = this.jQuery.noConflict();
 
         message = "Dear ES-DOC support team,";
 
-        email = email.replace('{0}', "es-doc-support@list.woc.noaa.gov");
+        email = email.replace('{0}', "support@es-doc.org");
         email = email.replace('{1}', subject);
         email = email.replace('{2}', message);
 
