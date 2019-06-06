@@ -15,7 +15,7 @@ this.window.$ = this.window.$jq = this.jQuery.noConflict();
         title: "ES-DOC Viewer",
 
         // Version.
-        VERSION: '0.13.2.0',
+        VERSION: '1.0.0',
 
         // Copyright statement.
         copyrightYear: new Date().getFullYear(),
